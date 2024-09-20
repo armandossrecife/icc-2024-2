@@ -51,10 +51,3 @@
     * Unidade lógica e aritmética (ULA).
 * **Redes de computadores:**
     * Protocolos de comunicação (IP, TCP).
-
-### Atividades
-* **Exercícios:**
-    * Conversões entre bases numéricas.
-    * Operações aritméticas em binário.
-* **Simulações:**
-    * Utilização de ferramentas online ou software para realizar conversões e operações.

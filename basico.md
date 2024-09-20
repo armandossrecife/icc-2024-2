@@ -38,10 +38,3 @@ Conceitos fundamentais que sustentam o mundo digital: bits, bytes, armazenamento
     * **Cache:** Uma pequena quantidade de memória rápida, localizada entre o processador e a memória principal.
     * **Memória principal (RAM):** Maior e mais lenta que o cache.
     * **Memória secundária:** A mais lenta e de maior capacidade.
-
-### Atividades
-
-* **Exercícios:**
-    * Converter números decimais para binário e vice-versa.
-    * Calcular o tamanho em bytes de um arquivo com determinada quantidade de caracteres, considerando diferentes codificações.
-    * Comparar as vantagens e desvantagens de diferentes unidades de armazenamento.

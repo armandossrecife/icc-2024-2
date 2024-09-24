@@ -12,3 +12,5 @@ ICC 2024-2
 [Hardware](https://github.com/armandossrecife/icc-2024-2/blob/main/hardware.md)
 
 [Sistemas Operacionais](https://github.com/armandossrecife/icc-2024-2/blob/main/so.md)
+
+[Principais características de um S.O. Desktop](https://github.com/armandossrecife/icc-2024-2/blob/main/caracter%C3%ADsticas_so_windows.md)

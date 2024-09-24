@@ -21,6 +21,16 @@ ICC 2024-2
 
 [Principais operações no S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/operacoes_comuns_windows.md)
 
+[Sistema Operacional Linux Ubuntu](https://github.com/armandossrecife/icc-2024-2/blob/main/caracteristicas_so_linux_ubuntu.md)
+
+[Sistema Operacional MacOS](x)
+
+[Compara Sistemas Operacionais de Desktops (Windows, Linux e MacOS)](x)
+
 [Sistemas Operacionais de Smartphones](https://github.com/armandossrecife/icc-2024-2/blob/main/so_smartphones.md)
 
+[Sistema Operacional Android](x)
 
+[Sistema Operacional IOS](x)
+
+[Compara Sistemas Operacionais de Smartphones](x)

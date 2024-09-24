@@ -19,6 +19,10 @@ Um sistema operacional é como o gerente de um computador. Ele gerencia todos os
 * **Linux:** Um sistema operacional open-source, altamente personalizável e disponível em diversas distribuições (Ubuntu, Fedora, Debian, etc.). É muito utilizado em servidores e por usuários que buscam maior controle sobre o sistema.
 * **macOS:** Desenvolvido pela Apple, é o sistema operacional utilizado em computadores Macintosh. Conhecido por sua estabilidade, design elegante e integração com outros produtos da Apple.
 
+**Carregamento de um sistema operacional em um Desktop**
+
+[Carregamento do S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/carregamento_so.md)
+
 **Interação com o Usuário:**
 
 * **Interface Gráfica (GUI):** A maioria dos sistemas operacionais modernos utiliza uma interface gráfica, que permite aos usuários interagir com o computador através de ícones, menus e janelas.

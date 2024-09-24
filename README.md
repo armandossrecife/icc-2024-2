@@ -21,4 +21,6 @@ ICC 2024-2
 
 [Principais operações no S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/operacoes_comuns_windows.md)
 
+[Sistemas Operacionais de Smartphones](https://github.com/armandossrecife/icc-2024-2/blob/main/so_smartphones.md)
+
 

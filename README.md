@@ -15,7 +15,9 @@ ICC 2024-2
 
 [Principais características de um S.O. Desktop](https://github.com/armandossrecife/icc-2024-2/blob/main/caracter%C3%ADsticas_so_windows.md)
 
-[Evolução do S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/caracter%C3%ADsticas_so_windows.md)
+[Evolução do S.O. DOS](https://github.com/armandossrecife/icc-2024-2/blob/main/evolucao_dos.md)
+
+[Evolução do S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/evolucao_windows.md)
 
 [Principais operações no S.O. Windows](https://github.com/armandossrecife/icc-2024-2/blob/main/operacoes_comuns_windows.md)
 

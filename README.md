@@ -35,4 +35,4 @@ ICC 2024-2
 
 [Sistema Operacional IOS](x)
 
-[Compara Sistemas Operacionais de Smartphones](x)
+[Compara Sistemas Operacionais de Smartphones](https://github.com/armandossrecife/icc-2024-2/blob/main/software_aplicativos.md)

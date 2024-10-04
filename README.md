@@ -1,5 +1,3 @@
-# ICC-2024-2
-ICC 2024-2
 
 [Impacto da Computação nos últimos 70 anos](https://github.com/armandossrecife/icc-2024-2/blob/main/icc-50-2020.md)
 
@@ -35,4 +33,4 @@ ICC 2024-2
 
 [Sistema Operacional IOS](x)
 
-[Compara Sistemas Operacionais de Smartphones](https://github.com/armandossrecife/icc-2024-2/blob/main/software_aplicativos.md)
+[Softwares Aplicativos](https://github.com/armandossrecife/icc-2024-2/blob/main/software_aplicativos.md)

@@ -29,6 +29,8 @@ ICC 2024-2
 
 [Sistemas Operacionais de Smartphones](https://github.com/armandossrecife/icc-2024-2/blob/main/so_smartphones.md)
 
+[Software Aplicativos](https://github.com/armandossrecife/icc-2024-2/blob/main/software_aplicativos.md)
+
 [Sistema Operacional Android](x)
 
 [Sistema Operacional IOS](x)

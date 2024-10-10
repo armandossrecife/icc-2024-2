@@ -42,4 +42,4 @@
 
 # Módulo 2 - Algoritmos e Introdução a Programação
 
-[Algoritmos](x)
+[Algoritmos](https://github.com/armandossrecife/icc-2024-2/blob/main/algoritmos.md)

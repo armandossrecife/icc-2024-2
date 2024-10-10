@@ -1,6 +1,6 @@
 ## Algoritmos e Programação
 
-### Introdução a Algoritmos
+### Algoritmos
 
 Um algoritmo é uma sequência finita de instruções bem definidas, que quando executadas, resolvem um problema específico. Em outras palavras, é uma receita para a solução de um problema. No contexto da engenharia, algoritmos são fundamentais para a automatização de processos, simulação de sistemas e análise de dados.
 
@@ -64,7 +64,23 @@ Blocos de programas são conjuntos de comandos que são executados sequencialmen
 * **Se então senão:** Permite executar um bloco de comandos se uma determinada condição for verdadeira e outro bloco de comandos caso contrário.
 * **Estrutura de controle de múltipla seleção:** Permite escolher entre várias opções de execução com base no valor de uma variável.
 
-**Observação:** Este é um material introdutório e aborda apenas os conceitos básicos de algoritmos e programação. Para aprofundar seus conhecimentos, é recomendado estudar linguagens de programação como C, C++, Python ou MATLAB, que são amplamente utilizadas em engenharia.
+## Trabalhando com Algoritmos
+
+[Parte 1](https://github.com/armandossrecife/teste/blob/main/aula1_algoritmo.md)
+
+- O que é um algoritmo? para que serve? como criar um algoritmo e como representar um algoritmo? 
+
+[Parte 2](https://github.com/armandossrecife/teste/blob/main/aula2_algoritmo.md)
+
+- Como resolver um problema computacional utilizando algoritmos?
+
+[Parte 3](https://github.com/armandossrecife/teste/blob/main/aula3_algoritmo.md)
+
+- O problema da busca de um nome em uma coleção de nomes.
+
+[Parte 4](https://github.com/armandossrecife/teste/blob/main/aula4_algoritmo.md)
+
+- Código Python que resolve a busca sequencial de um nome em uma lista.
 
 **Recursos adicionais:**
 
@@ -74,7 +90,7 @@ Blocos de programas são conjuntos de comandos que são executados sequencialmen
 * **Linguagens de programação:**
     * C
     * C++
-    * Python
+    * **Python**
     * MATLAB
     * Java
     * JavaScript

@@ -52,7 +52,7 @@
 
 ## Introdução a programação usando a linguagem Python
 
-[Introdução ao Python](x)
+[Introdução ao Python](https://github.com/armandossrecife/icc-2024-2/blob/main/python.md)
 
 [Variáveis, Tipos e Operações](https://github.com/armandossrecife/lp2024-2/blob/main/docs/variaveis.md)
 

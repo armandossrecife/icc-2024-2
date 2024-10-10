@@ -49,3 +49,23 @@
 [Laços](https://github.com/armandossrecife/icc-2024-2/blob/main/lacos.md)
 
 [Vetores e Matrizes](https://github.com/armandossrecife/icc-2024-2/blob/main/vetores_matrizes.md)
+
+## Introdução a programação usando a linguagem Python
+
+[Introdução ao Python](x)
+
+[Variáveis, Tipos e Operações](https://github.com/armandossrecife/lp2024-2/blob/main/docs/variaveis.md)
+
+[Comandos de seleção e repetição](https://github.com/armandossrecife/lp2024-2/blob/main/docs/selecao_repeticao.md)
+
+[Strings - Cadeias de caracteres](https://github.com/armandossrecife/lp2024-2/blob/main/docs/strings.md)
+
+[Listas](https://github.com/armandossrecife/lp2024-2/blob/main/docs/listas.md)
+
+[Tuplas](https://github.com/armandossrecife/lp2024-2/blob/main/docs/tuplas.md)
+
+[Conjuntos](https://github.com/armandossrecife/lp2024-2/blob/main/docs/sets.md)
+
+[Dicionários](https://github.com/armandossrecife/lp2024-2/blob/main/docs/dicionarios.md)
+
+[Funções](https://github.com/armandossrecife/lp2024-2/blob/main/docs/funcoes.md)

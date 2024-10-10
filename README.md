@@ -1,3 +1,4 @@
+# Módulo 1 - Fundamentos de Computação
 
 [Impacto da Computação nos últimos 70 anos](https://github.com/armandossrecife/icc-2024-2/blob/main/icc-50-2020.md)
 
@@ -38,3 +39,7 @@
 [Introdução a Internet](https://github.com/armandossrecife/icc-2024-2/blob/main/internet.md)
 
 [Introdução a CiberSegurança](https://github.com/armandossrecife/icc-2024-2/blob/main/ciberseguranca.md)
+
+# Módulo 2 - Algoritmos e Introdução a Programação
+
+[Algoritmos](x)

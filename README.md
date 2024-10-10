@@ -45,3 +45,5 @@
 [Algoritmos](https://github.com/armandossrecife/icc-2024-2/blob/main/algoritmos.md)
 
 [Comandos básicos](https://github.com/armandossrecife/icc-2024-2/blob/main/comandos_basicos.md)
+
+[Laços](https://github.com/armandossrecife/icc-2024-2/blob/main/lacos.md)

@@ -70,10 +70,10 @@
 
 [Funções](https://github.com/armandossrecife/lp2024-2/blob/main/docs/funcoes.md)
 
-[Introdução a Programação Orientada a Objetos](x)
-
-[Introdução a Visualização de Dados](x)
-
-[Introdução a Análise de Dados](x)
+[Introdução a Programação Orientada a Objetos](https://github.com/armandossrecife/lp2024-2/blob/main/docs/poo.md)
 
 [Vetores em Python](https://github.com/armandossrecife/icc-2024-2/blob/main/vetores_em_python.md)
+
+[Introdução a Visualização de Dados](https://github.com/armandossrecife/lp2024-2/blob/main/matplotlib_basic.ipynb)
+
+[Introdução a Análise de Dados](x)

@@ -47,3 +47,5 @@
 [Comandos básicos](https://github.com/armandossrecife/icc-2024-2/blob/main/comandos_basicos.md)
 
 [Laços](https://github.com/armandossrecife/icc-2024-2/blob/main/lacos.md)
+
+[Vetores e Matrizes](https://github.com/armandossrecife/icc-2024-2/blob/main/vetores_matrizes.md)

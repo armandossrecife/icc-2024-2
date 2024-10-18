@@ -95,10 +95,3 @@ inicio
     fimse
 fim
 ```
-
-**Aplicações na Engenharia Mecânica:**
-
-* **Cálculos:** Realizar cálculos complexos, como o cálculo de tensões em uma viga.
-* **Simulações:** Simular o comportamento de sistemas mecânicos, como o movimento de um pêndulo.
-* **Controle:** Controlar processos industriais, como a temperatura de um forno.
-* **Análise de dados:** Analisar dados de sensores para monitorar o desempenho de equipamentos.

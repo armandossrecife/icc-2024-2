@@ -52,6 +52,8 @@
 
 ## Introdução a programação usando a linguagem Python
 
+[Portugol x Python](https://github.com/armandossrecife/icc-2024-2/blob/main/portugolxpython.md)
+
 [Introdução ao Python](https://github.com/armandossrecife/icc-2024-2/blob/main/python.md)
 
 [Variáveis, Tipos e Operações](https://github.com/armandossrecife/lp2024-2/blob/main/docs/variaveis.md)

@@ -52,6 +52,8 @@
 
 ## Introdução a programação usando a linguagem Python
 
+[Introdução a Linguagens de Programação](https://github.com/armandossrecife/icc-2024-2/blob/main/linguagem_de_programacao.md)
+
 [Portugol x Python](https://github.com/armandossrecife/icc-2024-2/blob/main/portugolxpython.md)
 
 [Introdução ao Python](https://github.com/armandossrecife/icc-2024-2/blob/main/python.md)

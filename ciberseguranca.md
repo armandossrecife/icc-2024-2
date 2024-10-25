@@ -120,3 +120,5 @@ Dispositivos móveis, como smartphones e tablets, armazenam uma grande quantidad
 Ao seguir essas dicas, você pode proteger seus dispositivos e dados contra diversas ameaças cibernéticas. Lembre-se que a segurança da informação é um processo contínuo, e é importante estar sempre atento às novas ameaças e tecnologias.
 
 Sobre a [LGDP (Lei Geral de Proteção de Dados)](https://github.com/armandossrecife/icc-2024-2/blob/main/lgdp.md)
+
+Sobre o [Marco Civil da Internet no Brasil](https://github.com/armandossrecife/icc-2024-2/blob/main/marcocivilinternet.md)

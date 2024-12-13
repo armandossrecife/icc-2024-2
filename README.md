@@ -72,7 +72,9 @@
 
 [Dicionários](https://github.com/armandossrecife/lp2024-2/blob/main/docs/dicionarios.md)
 
-[Funções](https://github.com/armandossrecife/lp2024-2/blob/main/docs/funcoes.md)
+**Funções**:
+- [Básico](https://github.com/armandossrecife/icc-2024-2/blob/main/funcoes.md)
+- [Intermediário](https://github.com/armandossrecife/lp2024-2/blob/main/docs/funcoes.md)
 
 [Introdução a Programação Orientada a Objetos](https://github.com/armandossrecife/lp2024-2/blob/main/docs/poo.md)
 

@@ -14,9 +14,9 @@ Uma função é um bloco de código que executa uma tarefa específica e pode se
 - Reutilizar código, reduzindo repetição.
 - Melhorar a clareza e a organização.
 
-### Exemplo do dia a dia:
+### Exemplo:
 
-Uma função pode ser comparada a uma receita. Você fornece os ingredientes (dados de entrada), segue os passos (código), e obtém um resultado (saída).
+Uma função tem dados de entradas (parâmetros), faz o processamento desses parâmetros e pode devolver um resultado. Uma vez definida uma função, ela pode ser chamada várias vezes em qualquer parte do programa. 
 
 ---
 

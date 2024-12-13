@@ -135,3 +135,9 @@ print(f"Custo Total: R${custo}")
 - **Evite Repetições**: Reutilize funções para evitar código duplicado.
 
 ---
+
+## 6. Exemplo: 
+
+Calculadora Duck (Não modularizada) e Calculadora Modularizada. 
+
+No exemplo da [calculadora_duck](https://github.com/armandossrecife/icc-2024-2/blob/main/calculadora_duck.py), podemos observar que existem instruções e/ou blocos que se repetem. Já na [calculadora modularizada](https://github.com/armandossrecife/icc-2024-2/blob/main/calculadora.py), foram criadas funcoes específicas para cada ação do programa, deixando o programa mais organizado, componentizado e de melhor entendimento e manuteção.

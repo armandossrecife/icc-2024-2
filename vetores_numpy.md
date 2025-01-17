@@ -36,9 +36,14 @@ print(f"vetor_repetido: {vetor_repetido}")
 vetor_aleatorio = np.random.rand(5)
 print(f"vetor_aleatorio: {vetor_aleatorio}")
 
+# Criando um vetor com valores aleatórios (entre 0 e 10)
+# Criando um array com 10 números aleatórios entre 0 e 10
+numeros_aleatorios = np.random.randint(0, 11, size=10)
+
 vetor_sequencial: [0 1 2 3 4 5]
 vetor_repetido: [1 1 1 1 1]
 vetor_aleatorio: [0.65012734 0.66854856 0.65617098 0.4438401  0.84031399]
+numeros_aleatorios: [ 7  1  9  5  4 10  5  2  6  9]
 ```
 
 ### Criando matrizes a partir de listas aninhadas

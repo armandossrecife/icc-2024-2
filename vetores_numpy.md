@@ -37,7 +37,6 @@ vetor_aleatorio = np.random.rand(5)
 print(f"vetor_aleatorio: {vetor_aleatorio}")
 
 # Criando um vetor com valores aleatórios (entre 0 e 10)
-# Criando um array com 10 números aleatórios entre 0 e 10
 numeros_aleatorios = np.random.randint(0, 11, size=10)
 
 vetor_sequencial: [0 1 2 3 4 5]

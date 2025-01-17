@@ -1,4 +1,6 @@
-## Criando Arrays NumPy
+## Numpy e Arrays
+
+O NumPy é uma biblioteca fundamental para a linguagem de programação Python, especialmente no campo da ciência de dados e da computação científica. Ele fornece estruturas de dados eficientes para trabalhar com grandes conjuntos de dados numéricos, como arrays multidimensionais. 
 
 ### Função np.array()
 
@@ -128,6 +130,63 @@ print(f'C: {C}')
 C: [[5 1]
  [4 2]]
 ```
+
+## Funções Universais no NumPy: Aplicando a Matemática e Estatística em Arrays
+
+As funções universais do NumPy são operações que aplicam uma função a cada elemento de um array, de forma rápida e eficiente. Elas são fundamentais para realizar cálculos matemáticos e estatísticos em grandes conjuntos de dados.
+
+**Funções Matemáticas:**
+
+* **sin(x):** Calcula o seno de cada elemento do array.
+* **cos(x):** Calcula o cosseno de cada elemento do array.
+* **exp(x):** Calcula a exponencial de cada elemento do array (e^x).
+* **log(x):** Calcula o logaritmo natural de cada elemento do array.
+
+**Exemplo:**
+
+```python
+import numpy as np
+
+# Criando um array de ângulos em radianos
+angulos = np.array([0, np.pi/2, np.pi])
+
+# Calculando o seno, cosseno, exponencial e logaritmo natural
+senos = np.sin(angulos)
+cossenos = np.cos(angulos)
+exponenciais = np.exp(angulos)
+logaritmos = np.log(angulos + 1)  # Adicionando 1 para evitar logaritmo de 0
+
+print("Senos:", senos)
+print("Cossenos:", cossenos)
+print("Exponenciais:", exponenciais)
+print("Logaritmos naturais:", logaritmos)
+```
+
+**Funções Estatísticas:**
+
+* **mean(a):** Calcula a média dos elementos do array `a`.
+* **std(a):** Calcula o desvio padrão dos elementos do array `a`.
+* **max(a):** Retorna o valor máximo do array `a`.
+* **min(a):** Retorna o valor mínimo do array `a`.
+
+**Exemplo:**
+
+```python
+# Criando um array de números aleatórios
+numeros = np.random.rand(10)
+
+# Calculando a média, desvio padrão, máximo e mínimo
+media = np.mean(numeros)
+desvio_padrao = np.std(numeros)
+maximo = np.max(numeros)
+minimo = np.min(numeros)
+
+print("Média:", media)
+print("Desvio padrão:", desvio_padrao)
+print("Valor máximo:", maximo)
+print("Valor mínimo:", minimo)
+```
+
 
 ## Resolvendo Sistemas Lineares com NumPy
 

@@ -212,14 +212,14 @@ Considere o seguinte sistema de equações lineares:
 
 ```
 2x + y = 8
-x - 3y = -2
+x - y = 1
 ```
 
 Podemos representá-lo na forma matricial como:
 
 ```
 | 2  1 |   | x |   | 8 |
-| 1 -3 | * | y | = | -2 |
+| 1 -1 | * | y | = | 1 |
 ```
 
 **Código Python:**
@@ -228,8 +228,8 @@ Podemos representá-lo na forma matricial como:
 import numpy as np
 
 # Definindo a matriz dos coeficientes e o vetor dos termos independentes
-A = np.array([[2, 1], [1, -3]])
-b = np.array([8, -2])
+A = np.array([[2, 1], [1, -1]])
+b = np.array([8, 1])
 
 # Resolvendo o sistema linear
 x = np.linalg.solve(A, b)
